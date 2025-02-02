@@ -56,8 +56,8 @@ Passionate about solving complex problems through efficient algorithms and scala
 
 ## 🔬 Research & Publications  
 
-- **Content-Based Image Retrieval using Deep Neural Networks** | [IEEE](#)  
-- **Deep Learning Algorithm for Brain-Computer Interface Cinematics** | [IEEE](#)  
+- **Content-Based Image Retrieval using Deep Neural Networks** | [IEEE](https://ieeexplore.ieee.org/document/10421161)  
+- **Deep Learning Algorithm for Brain-Computer Interface Cinematics** | [IEEE](https://ieeexplore.ieee.org/document/10072540)  
 
 ---
 
@@ -74,5 +74,5 @@ I believe in **continuous learning** and **taking ownership of challenges**. I e
 ## 🌐 Connect with Me  
 
 📧 **Email**: bskapardi2002@gmail.com  
-🔗 **LinkedIn**: [https://www.linkedin.com/in/satyakapardi/](#)  
-💻 **GitHub**: [https://github.com/SatyaKapardi](#)  
+🔗 **LinkedIn**: [Linkedin](https://www.linkedin.com/in/satyakapardi/)  
+💻 **GitHub**: [GitHub](https://github.com/SatyaKapardi)  
