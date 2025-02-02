@@ -6,8 +6,6 @@ Passionate about solving complex problems through efficient algorithms and scala
 
 ---
 
-## 🛠️ Skills  
-
 ## 🛠️ Tech Stack  
 
 ### **Languages**  
