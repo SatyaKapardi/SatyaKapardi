@@ -74,5 +74,5 @@ I believe in **continuous learning** and **taking ownership of challenges**. I e
 ## 🌐 Connect with Me  
 
 📧 **Email**: bskapardi2002@gmail.com  
-🔗 **LinkedIn**: [Your LinkedIn](#)  
-💻 **GitHub**: [Your GitHub](#)  
+🔗 **LinkedIn**: [https://www.linkedin.com/in/satyakapardi/](#)  
+💻 **GitHub**: [https://github.com/SatyaKapardi](#)  
