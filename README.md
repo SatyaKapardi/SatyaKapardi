@@ -1,6 +1,6 @@
 # Srisatya Kapardi Budi  
 
-🚀 **Fullstack Web Developer | AI/ML Enthusiast | Researcher**  
+💡 **Fullstack Developer | AI/ML Explorer | Scalable Systems Enthusiast**
 
 Passionate about solving complex problems through efficient algorithms and scalable systems. My journey started with a deep interest in **Data Structures and Algorithms (DSA)**, which later evolved into building **robust backend systems** and exploring **Machine Learning applications**. I thrive in **fast-paced environments**, constantly learning and pushing my limits to create impactful solutions.  
 
